@@ -1,0 +1,48 @@
+body {
+  font-family: archivo;
+  background-color: #292929;
+}
+
+h1{
+  font-size: 50px;
+  text-align: center;
+  color: #fefefe;
+}
+
+span {
+  display: inline;
+  color: #fefefe;
+  padding: 15px;
+}
+
+#score {
+  display: inline;
+  color: #fefefe;
+}
+
+#high-score {
+  display: inline;
+  color: #fefefe;
+}
+
+#game div {
+  border: 1px solid #fefefe;
+  border-radius: 5px;
+  width: 15vw;
+  height: 20vh;
+  margin: 17px;
+  padding: 17px;
+  display: inline-flex;
+}
+
+#new-game {
+  font-size: 12px;
+  display: inline;
+  color: #292929;
+  background-color: #fefefe;
+  cursor: pointer;
+  border-radius: 2px;
+  position: absolute;
+  right: 10px;
+  padding: 3px;
+}
